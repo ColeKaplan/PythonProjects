@@ -471,8 +471,4 @@ tkinter.mainloop()
 
 
 
-##https://liftoff.github.io/pyminifier/obfuscate.html 
-
-
-
 
